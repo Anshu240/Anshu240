@@ -30,4 +30,4 @@ AI should support a decision, not replace judgment. Deterministic logic where pr
 
 ---
 
-If you find any of my projects interesting, feel free to connect on [LinkedIn](https://www.linkedin.com/in/anshujoshi240/) — always happy to talk product, AI, or travel rewards math.
+If you find any of my projects interesting, feel free to connect on [LinkedIn](https://www.linkedin.com/in/anshujoshi240/) — always happy to talk product, AI, or travel 
