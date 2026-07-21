@@ -8,7 +8,7 @@ AI Product Manager with 9+ years across **Business Analysis** and **Product Mana
 
 Over the past year I have shifted from managing AI products to building them myself using Claude Code and Cursor daily, not as a novelty, but as how I actually work.
 
-CSPO certified. M.Tech & B.Tech in Computer Science.
+CSPO certified · PMC Level I/II/III · Pragmatic Institute certified · M.Tech & B.Tech in Computer Science.
 
 ---
 
