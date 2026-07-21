@@ -16,7 +16,7 @@ CSPO certified · PMC Level I/II/III · Pragmatic Institute certified · M.Tech 
 
 | Project | Description | Links |
 |---|---|---|
-| **MyTravelWallet** | AI-powered travel rewards optimizer with a conversational assistant, Zoe. Deterministic math underneath, AI only explains the verdict, never decides it. Shipped to real users — 8/10 satisfaction. | [Live App](https://anshujoshi-aipm-portfolio.netlify.app) |
+| **MyTravelWallet** | AI-powered travel rewards optimizer with a conversational assistant, Zoe. Deterministic math underneath, AI only explains the verdict, never decides it. Shipped to real users — 8/10 satisfaction. | [Live App](https://mytravelwallet-ai.vercel.app) |
 | **JobHunter AI Crew** | A six-agent system that automates job search research and evaluation, built solo on the raw Anthropic SDK — no framework — so I would own every layer of the orchestration myself. | [Source](https://github.com/Anshu240/jobhunter-ai-crew) |
 | **Portfolio** | Overview of my AI product work, case studies, and background. | [Visit](https://anshujoshi-aipm-portfolio.netlify.app) |
 
